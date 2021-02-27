@@ -7,6 +7,7 @@
     "tme": "app.js"
   },
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "jsdom": "^16.4.0"
   }
 }
